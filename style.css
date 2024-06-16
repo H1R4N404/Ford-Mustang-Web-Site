@@ -159,6 +159,47 @@ span{
 }
 
 
+.heading{
+    font-size: 8rem;
+    text-align: center;
+    margin: 5rem 0;
+}
+
+.contact{
+    background-color:#ffffff;
+}
+.contact h2{
+    margin-bottom: 3rem;
+    color: rgb(0, 0, 0);
+}
+.contact-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+}
+.contact-inputs{
+    width: 50%;
+    padding: 2rem;
+    font-size: 1.5rem;
+    color: var(--text-color);
+    background: var(--bg-color);
+    border-radius: 2rem;
+    border: 2px solid var(--main-color);
+    margin: 1.5rem 0;
+    resize: none;
+}
+.contact-left textarea{
+    height: 250px;
+    padding-top: 15px;
+}
+.contact form .btn{
+    margin-top: 3rem;
+    margin-left: 20px;
+}
+
+
+
 
 
 .footer{
