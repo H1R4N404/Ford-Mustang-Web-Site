@@ -1,7 +1,5 @@
 # Ford-Mustang-Web-Site
 
-# Simple-Web-site-Interface
-
 ## Demo
 https://h1r4n404.github.io/Ford-Mustang-Web-Site/
 
