@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 ```
 2.Navigate to the project directory: 
 ```bash
-  cd Ford-Mustang-Web-Site.git
+  cd Ford-Mustang-Web-Site
 ```
 3.Open index.html in your web browser:
 ```bash
